@@ -34,6 +34,7 @@ module.exports = {
   rules: {
     indent: ['error', 2],
     'react/display-name': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
     '@typescript-eslint/no-empty-function': 'off',
     'no-console': 'off',
     'no-nested-ternary': 'off',
